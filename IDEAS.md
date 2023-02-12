@@ -8,3 +8,4 @@
  - **Fights**: Start a new fight on a map (automatically save information about the fight in the database).
  - **Turn Order**: For each fight, save the initiative of each player and display the turn order on the screen. Also display status effects like stunned, concentrated etc.
  - **Custom Timer**: Start a custom timer that is displayed on the screen (optional timer label)
+ - **Map Transitions**: Display a little animation when switching maps, like a rolling carriage or something
